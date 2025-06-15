@@ -1,0 +1,16 @@
+.square {
+    width: 200px;
+    height: 200px;
+    background: blue;
+    animation: twirl 1s linear infinite;
+}
+
+@keyframes twirl {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
