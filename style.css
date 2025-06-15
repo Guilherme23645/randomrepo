@@ -1,7 +1,7 @@
 .square {
     width: 200px;
     height: 200px;
-    background: blue;
+    background: red;
     animation: twirl 1s linear infinite;
 }
 
