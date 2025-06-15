@@ -1,3 +1,3 @@
 # randomrepo
 
-For now, just a random rotating blue square
+This version has a red square instead
